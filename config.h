@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Mononokai Nerd Font :pixelsize=16:antialias=true:autohint=true";
-static char *font2[] = { "Mononokai Nerd Font :pixelsize=16:antialias=true:autohint=true" };
+static char *font = "Mononoki Nerd Font:pixelsize=16:antialias=true:autohint=true";
+static char *font2[] = { "Mononoki Nerd Font:pixelsize=16:antialias=true:autohint=true" };
 static int borderpx = 0;
 
 /*

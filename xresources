@@ -5,7 +5,7 @@ Xft.hintstyle:	hintslight
 Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 
-st.font:        Mononokai Nerd Font:style:regular:pixelsize=20
+st.font:        Mononoki Nerd Font:style:regular:pixelsize=20
 
 #define base00 #282c34
 #define base01 #353b45
